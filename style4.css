@@ -1,0 +1,17 @@
+.wrapper{
+    background-color: tomato;
+    /* padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 40px; */
+
+    padding: 30px;
+    border: 13px double blue;
+}
+
+.wrapper h1{
+    color: white;
+}
+
+.wrapper button{
+    padding: 12px 20px;
+}
