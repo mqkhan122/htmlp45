@@ -1,0 +1,11 @@
+/* psuedo elements  :: */ 
+/* psuedo class  : */
+
+.para::first-line{
+    color: red;
+    font-size: 30px;
+    text-decoration: underline;
+}
+input::placeholder{
+    color: red;
+}

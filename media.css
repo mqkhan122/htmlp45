@@ -1,0 +1,16 @@
+/* csss */
+
+body{
+    background-color: blue;
+}
+.head{
+    font-size: 80px;
+}
+@media screen and (min-width: 400px) and (max-width : 700px) {
+    body{
+        background-color: red;
+    }
+    .head{
+        font-size: 40px;
+    }
+}
